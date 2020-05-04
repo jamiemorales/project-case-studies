@@ -9,8 +9,10 @@ After completion, someone will have gained a reflex for strategic, tactical, and
 
 ## Contents
 
-01 Detect credit card fraud
+0001 Detect credit card fraud
 
+To be continued...
+This work is ongoing, check back soon for more.
 
 ## More
 
@@ -27,4 +29,3 @@ Natural Language Processing Starter
 ## License
 
 https://creativecommons.org/licenses/by-sa/4.0/
-
