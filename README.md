@@ -9,7 +9,7 @@ After completion, someone will have gained a reflex for strategic, tactical, and
 
 ## Contents
 
-0001 Detect credit card fraud
+001 Detect credit card fraud
 
 To be continued...
 This work is ongoing, check back soon for more.
