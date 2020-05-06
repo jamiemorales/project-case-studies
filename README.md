@@ -26,6 +26,6 @@ Natural Language Processing Starter
 
 
 
-## License
+## How to cite
 
-https://creativecommons.org/licenses/by-sa/4.0/
+Morales, J. (2020) *Project case studies*. Available at: https://github.com/jamiemorales/project-case-studies.
