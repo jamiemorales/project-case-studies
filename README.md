@@ -11,6 +11,8 @@ After completion, someone will have gained a reflex for strategic, tactical, and
 
 001 Detect credit card fraud
 
+002 Detect credit card fraud
+
 To be continued...
 This work is ongoing, check back soon for more.
 
