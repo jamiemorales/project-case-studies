@@ -2,11 +2,6 @@
 
 Collection of case studies in data science, machine learning, and applied AI.
 
-It aims to help someone deliberately apply techniques, metrics, processes and everything in between to real-world problems with an emphasis on the strategic and tactical implications of the choices made at each step. 
-
-After completion, someone will have gained a reflex for strategic, tactical, and deliberate thinking about real-world problems.
-
-
 ## Contents
 
 001 Detect credit card fraud
